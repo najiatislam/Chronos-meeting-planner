@@ -27,6 +27,7 @@ Most timezone tools just show clocks. **Chronos finds the best meeting time auto
 |---------|---------------------|---------|
 | View multiple timezones | ✅ | ✅ |
 | Dark mode | ❌ | ✅ |
+| Add custom cities | ❌ | ✅ |
 | Drag to set meeting time | ❌ | ✅ |
 | Smart overlap detection | ❌ | ✅ |
 | Shareable meeting links | ❌ | ✅ |
@@ -54,8 +55,8 @@ Share your meeting setup with one URL:
 ```
 Recipients see cities and time pre-loaded.
 
-### 🌍 90+ Cities Worldwide
-Comprehensive timezone database with DST support.
+### 🌍 90+ Cities + Custom Timezones
+Comprehensive timezone database with DST support. **Add any city** with custom UTC offset.
 
 <img src="assets/ss3.jpeg" alt="World Clock" width="600">
 
