@@ -61,10 +61,24 @@ A sleek, modern web application for planning meetings across multiple time zones
 - Add multiple people
 - Find overlapping availability across team members
 
+### 🔗 Shareable Meeting Links
+Share meeting setups with a simple URL! When someone opens the link, cities and meeting time auto-load.
+
+**Example URLs:**
+```
+?cities=London,Tokyo,New York&meeting=14:00
+?cities=Dhaka,Berlin&meeting=09:30&duration=2
+?cities=Sydney,London,Mumbai&date=2026-03-15&meeting=10:00
+```
+
+**How to use:**
+1. Select cities and drag a meeting time on the timeline
+2. Click the **Share** button (link icon)
+3. Copy and share the generated URL
+
 ### Additional Features
 - **Quick Time Converter** - Convert any time between selected cities
 - **Saved Groups** - Save frequently used city combinations
-- **URL Sharing** - Generate shareable links with your meeting setup
 - **Calendar Export** - Export to .ics files for calendar apps
 - **Dark/Light Theme** - Toggle between elegant dark and light modes
 - **Keyboard Shortcuts** - Power user controls for efficiency
